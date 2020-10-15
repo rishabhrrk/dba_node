@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rishabhrrk/dba_node.git"
+    "url": "git+https://github.com/rishabhrrk/dbanode.git"
   },
   "keywords": [
     "node",
@@ -18,9 +18,9 @@
   "author": "Rishabh Khanna",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rishabhrrk/dba_node/issues"
+    "url": "https://github.com/rishabhrrk/dbanode/issues"
   },
-  "homepage": "https://github.com/rishabhrrk/dba_node#readme",
+  "homepage": "https://github.com/rishabhrrk/dbanode#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
