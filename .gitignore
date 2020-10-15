@@ -1,2 +1,6 @@
 ./node_modules/*
 ./packages/*
+./posts/node_modules/*
+./posts/packages/*
+./login/node_modules/*
+./login/packages/*
